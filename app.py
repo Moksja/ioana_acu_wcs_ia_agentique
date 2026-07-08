@@ -31,7 +31,7 @@ text_bloc = [
     "Bien que la région Sud fasse plus de ventes en termes de quantités, le chiffre d'affaires de la région Nord reste légèrement supérieure.",
     """De même concernant les produits : le produit A a une plus petite rentabilité bien que ce soit le n°1 des ventes. Au contraire, le produit C 
     a la plus grande rentabilité bien qu'il soit le moins vendu.""",
-    "Les régions ont un chiffre d'affaires équivalent malgré une variation notable dans les quantités vendues. En début et fin de mois, les ventes chutent dans les deux zones."
+    "Les régions ont un chiffre d'affaires équivalent malgré une variation notable dans les quantités vendues. En fin de mois, les ventes chutent dans les deux zones."
 ]
 pie_width = "30%"
 bar_width = "45%"
